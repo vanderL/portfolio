@@ -67,6 +67,7 @@ Fortaleza/CE
 * Determinação e responsabilidade
 * Facilidade para trabalhar em grupo
 * Sedento por conhecimento ao extremo (sempre pesquisando e perguntando);
+* Organização e trabalho em equipe, alcançando a solução de problemas e otimizando processos através da tecnologia e o desenvolvimento de softwares
 
 ---
 
